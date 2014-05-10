@@ -1,0 +1,19 @@
+*unite-rf.txt*	A Unite plugin for browsing your RF files.
+
+Author: ypwang(Yao-Po Wang)
+License: GPL-3 or later
+
+==============================================================================
+INTRODUCTION				*unite-rf-introduction*
+
+*unite-rf* is a Unite.vim plugin for browsing your RF files.
+
+Requirement:
+- unite.vim
+- robotframework
+
+Latest version:
+https://github.com/blue119/unite-rf
+
+==============================================================================
+vim:tw=78:fo=tcq2mM:ts=8:ft=help:norl
